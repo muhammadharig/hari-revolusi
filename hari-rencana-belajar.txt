@@ -4,3 +4,5 @@ RENCANA BELAJAR
 - PHP
 - React JS
 - Laravel
+- Belajar Node JS
+- Belajar Express JS
