@@ -1,0 +1,8 @@
+RENCANA BELAJAR
+
+- Evaluasi Belajar Javascript
+- PHP
+- React JS
+- Laravel
+- Belajar Node JS
+- Belajar Express JS
